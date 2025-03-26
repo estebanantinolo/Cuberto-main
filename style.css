@@ -10,8 +10,7 @@ width: 225px;
 }
 
 body {
-max-width: 40%;
-margin: auto;
+
 
 }
 
@@ -24,6 +23,13 @@ table {
 }
 
 #menu {
+    background-color: black;
+    color: white;
+    max-width: 100%;
+
+}
+
+#menu2 {
     background-color: black;
     color: white;
     max-width: 100%;
